@@ -13,6 +13,6 @@
 输出: ["1->2->5", "1->3"]  
 解释: 所有根节点到叶子节点的路径为: 1->2->5, 1->3
 
-## 来源：
-力扣（LeetCode）
+## 备注
+来源：力扣（LeetCode）
 链接：https://leetcode-cn.com/problems/binary-tree-paths
